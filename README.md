@@ -76,7 +76,7 @@ Looking at the out-of-sample chart, the model tracks monetary cycles well, but r
 ## How to Run
 
 ```bash
-git clone [https://github.com/ziem-branchereau/us-recession-probit-model.git](https://github.com/ziem-branchereau/us-recession-probit-model.git)
+git clone https://github.com/ziem-branchereau/us-recession-probit-model.git
 cd us-recession-probit-model
 pip install -r requirements.txt
 jupyter notebook recession_probit_model.ipynb
@@ -86,8 +86,6 @@ jupyter notebook recession_probit_model.ipynb
 `python`, `pandas`, `pandas_datareader`, `statsmodels`, `scikit-learn`, `matplotlib`
 
 ---
-
-## References
 
 ## References
 
